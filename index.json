@@ -63,10 +63,10 @@
   {
     "name": "Tachiyomi: Wolf.com",
     "pkg": "eu.kanade.tachiyomi.extension.ko.wolfdotcom",
-    "apk": "tachiyomi-ko.wolfdotcom-v1.4.4.apk",
+    "apk": "tachiyomi-ko.wolfdotcom-v1.4.3.apk",
     "lang": "ko",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "sources": [
       {
