@@ -2,24 +2,24 @@
   {
     "name": "Tachiyomi: NewToki / ManaToki",
     "pkg": "eu.kanade.tachiyomi.extension.ko.newtoki",
-    "apk": "tachiyomi-ko.newtoki-v1.4.33.apk",
+    "apk": "tachiyomi-ko.newtoki-v1.4.34.apk",
     "lang": "ko",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 1,
     "sources": [
       {
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki469.net",
+        "baseUrl": "https://manatoki552.net",
         "versionId": 1
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki469.com",
+        "baseUrl": "https://newtoki552.com",
         "versionId": 1
       }
     ]
