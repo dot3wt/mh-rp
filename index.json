@@ -2,24 +2,24 @@
   {
     "name": "Tachiyomi: NewToki / ManaToki",
     "pkg": "eu.kanade.tachiyomi.extension.ko.newtoki",
-    "apk": "tachiyomi-ko.newtoki-v1.4.34.apk",
+    "apk": "tachiyomi-ko.newtoki-v1.4.35-release.apk",
     "lang": "ko",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 1,
     "sources": [
       {
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki552.net",
+        "baseUrl": "https://mato03.com",
         "versionId": 1
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki552.com",
+        "baseUrl": "https://newto03.com",
         "versionId": 1
       }
     ]
@@ -27,7 +27,7 @@
   {
     "name": "Tachiyomi: 11toon",
     "pkg": "eu.kanade.tachiyomi.extension.ko.toon11",
-    "apk": "tachiyomi-ko.toon11-v1.4.1.apk",
+    "apk": "tachiyomi-ko.toon11-v1.4.1-release.apk",
     "lang": "ko",
     "code": 1,
     "version": "1.4.1",
@@ -45,17 +45,17 @@
   {
     "name": "Tachiyomi: Toonkor",
     "pkg": "eu.kanade.tachiyomi.extension.ko.toonkor",
-    "apk": "tachiyomi-ko.toonkor-v1.4.5.apk",
+    "apk": "tachiyomi-ko.toonkor-v1.4.6-release.apk",
     "lang": "ko",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "sources": [
       {
         "name": "Toonkor",
         "lang": "ko",
         "id": "6596496791271983268",
-        "baseUrl": "https://tkor.dog",
+        "baseUrl": "https://tkor117.com",
         "versionId": 1
       }
     ]
@@ -63,31 +63,24 @@
   {
     "name": "Tachiyomi: Wolf.com",
     "pkg": "eu.kanade.tachiyomi.extension.ko.wolfdotcom",
-    "apk": "tachiyomi-ko.wolfdotcom-v1.4.3.apk",
+    "apk": "tachiyomi-ko.wolfdotcom-v1.4.4-release.apk",
     "lang": "ko",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 1,
     "sources": [
       {
         "name": "늑대닷컴 - 웹툰",
         "lang": "ko",
         "id": "5583626852311652499",
-        "baseUrl": "https://wfwf449.com",
+        "baseUrl": "https://wfwf552.com",
         "versionId": 1
       },
       {
         "name": "늑대닷컴 - 만화책",
         "lang": "ko",
         "id": "7074060458114951398",
-        "baseUrl": "https://wfwf449.com",
-        "versionId": 1
-      },
-      {
-        "name": "늑대닷컴 - 포토툰",
-        "lang": "ko",
-        "id": "4225505094399546613",
-        "baseUrl": "https://wfwf449.com",
+        "baseUrl": "https://wfwf552.com",
         "versionId": 1
       }
     ]
